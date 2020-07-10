@@ -5,6 +5,10 @@ Description:
 
 Function:
 - Initial setup (file locations, etc.)
+- Directory setup check every runtime
+- Basic logging functionality
+
+Process:
 0. Backup previously generated files.
 1. Reads a .docx joblist file
 2. Fills relevant information into .dotx template
