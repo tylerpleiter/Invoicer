@@ -1,5 +1,7 @@
 # Invoicer
 
+![alt text](https://github.com/tylerpleiter/Invoicer/blob/master/InvoicerDesign.png "Screenshot")
+
 ## Description:
 
 Simple C# Windows Form Application generated in Microsoft Visual Studio 2015. 
