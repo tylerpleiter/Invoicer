@@ -20,7 +20,7 @@ Simple C# Windows Form Application generated in Microsoft Visual Studio 2015.
 4. (Open)s Outgoing folder and PDFs for review and emailing
 5. (Transfer)s files from Outgoing to relevant locations
 
-## Program directory:
+## Program Directory:
 
 - Invoicer
 - - Config 
