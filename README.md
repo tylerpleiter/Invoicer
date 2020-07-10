@@ -1,7 +1,8 @@
 # Invoicer
 
 Description:
-- Simple C# Windows Form Application generated in Microsoft Visual Studio 2015. 
+
+Simple C# Windows Form Application generated in Microsoft Visual Studio 2015. 
 
 Function:
 - Initial setup (file locations, etc.)
@@ -9,6 +10,7 @@ Function:
 - Basic logging functionality
 
 Process:
+
 0. Backup previously generated files.
 1. Reads a .docx joblist file
 2. Fills relevant information into .dotx template
