@@ -1,7 +1,7 @@
 # Invoicer
 
 Description:
-Simple C# Windows Form Application generated in Microsoft Visual Studio 2015. 
+- Simple C# Windows Form Application generated in Microsoft Visual Studio 2015. 
 
 Function:
 - Initial setup (file locations, etc.)
@@ -13,17 +13,17 @@ Function:
 5. (Transfer)s files from Outgoing to relevant locations
 
 Program directory:
-Invoicer
---Config
-----config.xml
-----invoiceTemplate.dotx
-----log.txt
---Invoices
-----Docs
-----PDFs
---Outgoing
---Invoicer.exe
-JobList.docx ~anywhere
+- Invoicer
+- - Config 
+- - - config.xml 
+- - - invoiceTemplate.dotx 
+- - - log.txt 
+- - Invoices
+- - - Docs
+- - - PDFs
+- - Outgoing
+- - Invoicer.exe
+- JobList.docx ~anywhere
 
 Known Issues:
 - Error once joblist holds too many items (~200 Invoices)
