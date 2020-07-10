@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <prefix>I</prefix>
+  <genPdfs>true</genPdfs>
+  <jobListPath>C:\Users\tyler\Desktop\JobList1.docx</jobListPath>
+  <backupFreq>7</backupFreq>
+  <backupLoc>F:\invoiceTesting</backupLoc>
+  <lastBackup>29/06/2018 11:10:19 AM</lastBackup>
+</settings>

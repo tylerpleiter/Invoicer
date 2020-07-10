@@ -1,0 +1,60 @@
+[18-06-29 11:10:19] Program start--------------
+[18-06-29 11:10:19] Checking program files
+[18-06-29 11:10:19] Creating Outgoing dir
+[18-06-29 11:10:19] Creating Invoices dir
+[18-06-29 11:10:19] Creating Docs sud-dir
+[18-06-29 11:10:19] Creating PDFs sud-dir
+[18-06-29 11:10:19] Config dir exists
+[18-06-29 11:10:19] Creating config file
+[18-06-29 11:10:19] Settings loaded
+[18-06-29 11:10:19] Invoice Template Missing
+[18-06-29 11:10:21] Job List missing
+[18-06-29 11:10:24] Backup off
+[18-06-29 11:10:24] Setup complete - Files missing
+[18-06-29 11:10:25] Loading settings
+[18-06-29 11:10:51] Loading settings
+[18-06-29 11:10:53] Settings saved
+[18-06-29 11:10:53] Checking program files
+[18-06-29 11:10:53] Outgoing dir exists
+[18-06-29 11:10:53] Invoices dir exists
+[18-06-29 11:10:53] Docs sub-dir exists
+[18-06-29 11:10:53] PDFs sub-dir exists
+[18-06-29 11:10:53] Config dir exists
+[18-06-29 11:10:53] Config file exists
+[18-06-29 11:10:53] Settings loaded
+[18-06-29 11:10:53] Invoice Template Missing
+[18-06-29 11:10:55] Job List missing
+[18-06-29 11:10:59] Backup off
+[18-06-29 11:10:59] Setup complete - Files missing
+[18-06-29 11:10:59] Loading settings
+[18-06-29 11:11:12] Settings saved
+[18-06-29 11:11:12] Checking program files
+[18-06-29 11:11:12] Outgoing dir exists
+[18-06-29 11:11:12] Invoices dir exists
+[18-06-29 11:11:12] Docs sub-dir exists
+[18-06-29 11:11:12] PDFs sub-dir exists
+[18-06-29 11:11:12] Config dir exists
+[18-06-29 11:11:12] Config file exists
+[18-06-29 11:11:12] Settings loaded
+[18-06-29 11:11:12] invoiceTemplate exists
+[18-06-29 11:11:12] Job List missing
+[18-06-29 11:11:14] Backup off
+[18-06-29 11:11:14] Setup complete - Files missing
+[18-06-29 11:11:37] Loading settings
+[18-06-29 11:11:44] Settings saved
+[18-06-29 11:11:44] Checking program files
+[18-06-29 11:11:44] Outgoing dir exists
+[18-06-29 11:11:44] Invoices dir exists
+[18-06-29 11:11:44] Docs sub-dir exists
+[18-06-29 11:11:44] PDFs sub-dir exists
+[18-06-29 11:11:44] Config dir exists
+[18-06-29 11:11:44] Config file exists
+[18-06-29 11:11:44] Settings loaded
+[18-06-29 11:11:44] invoiceTemplate exists
+[18-06-29 11:11:44] Job List exists
+[18-06-29 11:11:44] Backup off
+[18-06-29 11:11:44] Setup complete - Ready
+[18-06-29 11:12:14] Generating invoices
+[18-06-29 11:12:14] Starting Microsoft Word
+[18-06-29 11:12:16] Opening job list
+[18-06-29 11:12:18] Generating invoice #93 (1/6)
