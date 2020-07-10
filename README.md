@@ -1,15 +1,15 @@
 # Invoicer
 
-Description:
+## Description:
 
 Simple C# Windows Form Application generated in Microsoft Visual Studio 2015. 
 
-Function:
+## Function:
 - Initial setup (file locations, etc.)
 - Directory setup check every runtime
 - Basic logging functionality
 
-Process:
+## Process:
 
 0. Backup previously generated files.
 1. Reads a .docx joblist file
@@ -18,7 +18,8 @@ Process:
 4. (Open)s Outgoing folder and PDFs for review and emailing
 5. (Transfer)s files from Outgoing to relevant locations
 
-Program directory:
+## Program directory:
+
 - Invoicer
 - - Config 
 - - - config.xml 
@@ -31,5 +32,6 @@ Program directory:
 - - Invoicer.exe
 - JobList.docx ~anywhere
 
-Known Issues:
+## Issues:
+
 - Error once joblist holds too many items (~200 Invoices)
